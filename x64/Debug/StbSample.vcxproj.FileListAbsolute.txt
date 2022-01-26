@@ -1,0 +1,2 @@
+C:\Users\kiril\source\repos\StbSample\x64\Debug\StbSample.exe
+C:\Users\kiril\source\repos\StbSample\x64\Debug\StbSample.pdb

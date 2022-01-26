@@ -1,0 +1,6 @@
+﻿  StbSample.cpp
+C:\Users\kiril\source\repos\StbSample\StbSample.cpp(100,21): warning C4244: =: преобразование "double" в "unsigned char", возможна потеря данных
+C:\Users\kiril\source\repos\StbSample\StbSample.cpp(169,29): warning C4244: =: преобразование "double" в "unsigned char", возможна потеря данных
+C:\Users\kiril\source\repos\StbSample\StbSample.cpp(195,12): warning C4129:: 
+C:\Users\kiril\source\repos\StbSample\StbSample.cpp(148): warning C4715: deshif: значение возвращается не при всех путях выполнения
+  StbSample.vcxproj -> C:\Users\kiril\source\repos\StbSample\x64\Debug\StbSample.exe
